@@ -1,0 +1,1523 @@
+[
+    {
+        "id": "2024-p1-eng-14",
+        "category": "English",
+        "question": "Choose the Correctly Spelled word from the given options?",
+        "options": [
+            "Accommodation",
+            "Accomodation",
+            "Acommodation",
+            "Accomodution"
+        ],
+        "correctAnswer": "Accommodation",
+        "explanation": "The correct spelling is 'Accommodation'[cite: 14]."
+    },
+    {
+        "id": "2024-p1-eng-16",
+        "category": "English",
+        "question": "A black and white cow ___ grazing in the field.",
+        "options": [
+            "are",
+            "is",
+            "were",
+            "None of these"
+        ],
+        "correctAnswer": "is",
+        "explanation": "The correct helping verb here is 'is'[cite: 14]."
+    },
+    {
+        "id": "2024-p1-gk-31",
+        "category": "General Knowledge",
+        "question": "Which date is declared as the International Day of Peace?",
+        "options": [
+            "11th April",
+            "20th November",
+            "21th September",
+            "06th December"
+        ],
+        "correctAnswer": "21th September",
+        "explanation": "21th September is celebrated globally as the International Day of Peace[cite: 14]."
+    },
+    {
+        "id": "2024-p1-gk-37",
+        "category": "General Knowledge",
+        "question": "Largest Natural Lake of Pakistan is:",
+        "options": [
+            "Saiful Malook",
+            "Keenjhar",
+            "Manchhar",
+            "Attabad"
+        ],
+        "correctAnswer": "Manchhar",
+        "explanation": "Manchhar Lake is the largest natural freshwater lake in Pakistan[cite: 14]."
+    },
+    {
+        "id": "2024-p1-sci-53",
+        "category": "General Science",
+        "question": "What is the SI unit of frequency?",
+        "options": [
+            "Hertz",
+            "Newton",
+            "Pascal",
+            "Watt"
+        ],
+        "correctAnswer": "Hertz",
+        "explanation": "The SI unit of frequency is Hertz[cite: 14]."
+    },
+    {
+        "id": "2024-p2-eng-1",
+        "category": "English",
+        "question": "What is the Synonym of Abhor?",
+        "options": [
+            "Love",
+            "Admire",
+            "Prefer",
+            "Hate"
+        ],
+        "correctAnswer": "Hate",
+        "explanation": "Abhor means to regard with disgust and hatred, so the synonym is Hate[cite: 15]."
+    },
+    {
+        "id": "2024-p2-gk-31",
+        "category": "General Knowledge",
+        "question": "Which date is declared as International Day of Education?",
+        "options": [
+            "20th November",
+            "25th December",
+            "24th January",
+            "8th February"
+        ],
+        "correctAnswer": "24th January",
+        "explanation": "The UN declared 24th January as the International Day of Education[cite: 15]."
+    },
+    {
+        "id": "2024-p2-sci-54",
+        "category": "General Science",
+        "question": "What is the largest planet in our solar system?",
+        "options": [
+            "Earth",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+        ],
+        "correctAnswer": "Jupiter",
+        "explanation": "Jupiter is the largest planet in our solar system[cite: 15]."
+    },
+    {
+        "id": "2024-p2-sci-70",
+        "category": "General Science",
+        "question": "WWW stands for:",
+        "options": [
+            "World Whole Web",
+            "World White Web",
+            "World Wide Web",
+            "None of these"
+        ],
+        "correctAnswer": "World Wide Web",
+        "explanation": "WWW stands for World Wide Web, which is an information system on the internet[cite: 15]."
+    },
+    {
+        "id": "2024-p2-math-74",
+        "category": "Maths",
+        "question": "The sum of first 10 natural numbers is equal to:",
+        "options": [
+            "40",
+            "45",
+            "50",
+            "55"
+        ],
+        "correctAnswer": "55",
+        "explanation": "Using the formula n(n+1)/2, the sum of the first 10 natural numbers is 10(11)/2 = 55[cite: 15]."
+    },
+    {
+        "id": "2025-p1-eng-1",
+        "category": "English",
+        "question": "What is the Synonym of ABSCOND?",
+        "options": [
+            "Rob",
+            "Obscure",
+            "Flee",
+            "Absolve"
+        ],
+        "correctAnswer": "Flee",
+        "explanation": "Abscond means to leave hurriedly and secretly, so the synonym is Flee[cite: 16]."
+    },
+    {
+        "id": "2025-p1-gk-34",
+        "category": "General Knowledge",
+        "question": "The Kargil war happened in:",
+        "options": [
+            "1997",
+            "1998",
+            "1999",
+            "2000"
+        ],
+        "correctAnswer": "1999",
+        "explanation": "The Kargil War was fought in the year 1999[cite: 16]."
+    },
+    {
+        "id": "2025-p1-sci-53",
+        "category": "General Science",
+        "question": "Vitamin C deficiency causes:",
+        "options": [
+            "Rickets",
+            "Night blindness",
+            "Scurvy",
+            "Goiter"
+        ],
+        "correctAnswer": "Scurvy",
+        "explanation": "A severe deficiency of Vitamin C in the diet causes Scurvy[cite: 16]."
+    },
+    {
+        "id": "2025-p1-math-74",
+        "category": "Maths",
+        "question": "Complete the series: 4, 9, 16, 25, ___",
+        "options": [
+            "32",
+            "55",
+            "40",
+            "36"
+        ],
+        "correctAnswer": "36",
+        "explanation": "This is a series of perfect squares: 2^2, 3^2, 4^2, 5^2. The next is 6^2 = 36[cite: 16]."
+    },
+    {
+        "id": "2025-p1-iq-96",
+        "category": "IQ",
+        "question": "Adnan was 21-year-old in 1945, how old will he be in 1965?",
+        "options": [
+            "41",
+            "43",
+            "45",
+            "65"
+        ],
+        "correctAnswer": "41",
+        "explanation": "From 1945 to 1965 is 20 years. 21 + 20 = 41 years old[cite: 16]."
+    },
+    {
+        "id": "2025-p2-eng-1",
+        "category": "English",
+        "question": "What is the Synonym of FORTUITOUS?",
+        "options": [
+            "Accidental",
+            "Unlucky",
+            "Planned",
+            "Intentional"
+        ],
+        "correctAnswer": "Accidental",
+        "explanation": "Fortuitous means happening by chance or accident rather than intention."
+    },
+    {
+        "id": "2025-p2-eng-2",
+        "category": "English",
+        "question": "What is the Synonym of ENTHUSIASTIC?",
+        "options": [
+            "Apathetic",
+            "Blunt",
+            "Keen",
+            "Indifferent"
+        ],
+        "correctAnswer": "Keen",
+        "explanation": "Enthusiastic and Keen both mean having or showing intense and eager enjoyment."
+    },
+    {
+        "id": "2025-p2-eng-6",
+        "category": "English",
+        "question": "What is the Antonym of CHERISH?",
+        "options": [
+            "Discard",
+            "Brave",
+            "Beautiful",
+            "Valid"
+        ],
+        "correctAnswer": "Discard",
+        "explanation": "Cherish means to hold dear or protect, while Discard means to get rid of."
+    },
+    {
+        "id": "2025-p2-iq-94",
+        "category": "IQ",
+        "question": "Monday is to March as Friday is to:",
+        "options": [
+            "June",
+            "July",
+            "August",
+            "September"
+        ],
+        "correctAnswer": "July",
+        "explanation": "Monday is the 1st day of the work week, March is the 3rd month. Friday is the 5th day, and July is the 7th month. (Pattern: +2 index)."
+    },
+    {
+        "id": "2021-p1-eng-1",
+        "category": "English",
+        "question": "What is the Synonym of Deference?",
+        "options": [
+            "Respect",
+            "Disrespect",
+            "Disregard",
+            "Contempt"
+        ],
+        "correctAnswer": "Respect",
+        "explanation": "Deference means humble submission and respect."
+    },
+    {
+        "id": "2021-p1-eng-6",
+        "category": "English",
+        "question": "What is the Antonym of Abandon?",
+        "options": [
+            "Undone",
+            "Claim",
+            "Abuse",
+            "Waste"
+        ],
+        "correctAnswer": "Claim",
+        "explanation": "Abandon means to give up completely, while Claim means to formally request or demand."
+    },
+    {
+        "id": "2021-p1-iq-98",
+        "category": "IQ",
+        "question": "Find the answer that best completes the analogy: Book is to Reading as Fork is to:",
+        "options": [
+            "Drawing",
+            "Writing",
+            "Stirring",
+            "Eating"
+        ],
+        "correctAnswer": "Eating",
+        "explanation": "A book is an object used for reading. A fork is a tool used for eating."
+    },
+    {
+        "id": "2021-p2-eng-2",
+        "category": "English",
+        "question": "What is the Synonym of Contemplation?",
+        "options": [
+            "Contain",
+            "Creation",
+            "Ignore",
+            "Concentration"
+        ],
+        "correctAnswer": "Concentration",
+        "explanation": "Contemplation means looking thoughtfully for a long time or deep reflective thought (Concentration)."
+    },
+    {
+        "id": "2021-p2-iq-93",
+        "category": "IQ",
+        "question": "LIGHT BULB is to FILAMENT as WHEEL is to:",
+        "options": [
+            "Road",
+            "Spoke",
+            "Automobile",
+            "Pulley"
+        ],
+        "correctAnswer": "Spoke",
+        "explanation": "A filament is a functional internal part of a light bulb. A spoke is a functional internal part of a wheel."
+    },
+    {
+        "id": "2021-p3-eng-1",
+        "category": "English",
+        "question": "What is the Synonym of Paradox?",
+        "options": [
+            "Praise",
+            "Power",
+            "Puzzle",
+            "Dress"
+        ],
+        "correctAnswer": "Puzzle",
+        "explanation": "A paradox is a seemingly absurd or self-contradictory statement, much like a puzzle."
+    },
+    {
+        "id": "2021-p3-iq-94",
+        "category": "IQ",
+        "question": "If 10 clothes are dried up together in 5 hours, in how many hours can 20 clothes be dried up together?",
+        "options": [
+            "50 hrs",
+            "10 hrs",
+            "20 hrs",
+            "5 hrs"
+        ],
+        "correctAnswer": "5 hrs",
+        "explanation": "Drying clothes simultaneously takes the same amount of time regardless of the number of clothes, assuming the sun/heat is equal for all."
+    },
+    {
+        "id": "2022-p1-eng-1",
+        "category": "English",
+        "question": "What is the Synonym of Reckless?",
+        "options": [
+            "Faceless",
+            "Jobless",
+            "Pointless",
+            "Careless"
+        ],
+        "correctAnswer": "Careless",
+        "explanation": "Reckless means doing something without thinking about the consequences, which is similar to Careless."
+    },
+    {
+        "id": "2022-p1-eng-2",
+        "category": "English",
+        "question": "What is the Synonym of Fidelity?",
+        "options": [
+            "Finally",
+            "Friendly",
+            "Loyalty",
+            "Foreign"
+        ],
+        "correctAnswer": "Loyalty",
+        "explanation": "Fidelity means faithfulness to a person, cause, or belief, demonstrated by continuing loyalty."
+    },
+    {
+        "id": "2022-p1-eng-6",
+        "category": "English",
+        "question": "What is the Antonym of Factitious?",
+        "options": [
+            "Fiction",
+            "Genuine",
+            "Novel",
+            "Bend"
+        ],
+        "correctAnswer": "Genuine",
+        "explanation": "Factitious means artificially created or developed, so the opposite is Genuine."
+    },
+    {
+        "id": "2022-p1-eng-7",
+        "category": "English",
+        "question": "What is the Antonym of Arrogant?",
+        "options": [
+            "Humble",
+            "Cunning",
+            "Skillful",
+            "Dumb"
+        ],
+        "correctAnswer": "Humble",
+        "explanation": "An arrogant person is excessively proud, while a humble person shows a modest estimate of their importance."
+    },
+    {
+        "id": "2022-p2-eng-1",
+        "category": "English",
+        "question": "What is the Synonym of DILIGENT?",
+        "options": [
+            "Agent",
+            "Hardworking",
+            "Denting",
+            "Drowning"
+        ],
+        "correctAnswer": "Hardworking",
+        "explanation": "Diligent means having or showing care and conscientiousness in one's work (Hardworking)."
+    },
+    {
+        "id": "2022-p2-eng-6",
+        "category": "English",
+        "question": "What is the Antonym of ELASTIC?",
+        "options": [
+            "Yielding",
+            "Rigid",
+            "Mold-able",
+            "Supple"
+        ],
+        "correctAnswer": "Rigid",
+        "explanation": "Elastic means able to encompass much variety and change; flexible and adaptable. Rigid means unable to bend or be forced out of shape."
+    },
+    {
+        "id": "2022-p2-iq-92",
+        "category": "IQ",
+        "question": "Which one makes the best comparison? Milk is to glass as the letter is to:",
+        "options": [
+            "Pen",
+            "Mail",
+            "Envelope",
+            "Book"
+        ],
+        "correctAnswer": "Envelope",
+        "explanation": "Milk is put inside a glass. A letter is put inside an envelope."
+    },
+    {
+        "id": "2023-p1-eng-1",
+        "category": "English",
+        "question": "What is the Synonym of INFATUATION?",
+        "options": [
+            "Passion",
+            "Training",
+            "Saturation",
+            "Instruction"
+        ],
+        "correctAnswer": "Passion",
+        "explanation": "Infatuation is an intense but short-lived passion or admiration for someone or something."
+    },
+    {
+        "id": "2023-p1-eng-3",
+        "category": "English",
+        "question": "What is the Synonym of ATTEMPT?",
+        "options": [
+            "Explore",
+            "Explain",
+            "Tear",
+            "Try"
+        ],
+        "correctAnswer": "Try",
+        "explanation": "Attempt means make an effort to achieve or complete something (Try)."
+    },
+    {
+        "id": "2023-p1-iq-98",
+        "category": "IQ",
+        "question": "A man walks 1 km to East and then he turns to South and walks 5 km. Again, he turns to East and walks 2 km. After this he turns to North and walks 9 km. Now, how far is he from his starting point?",
+        "options": [
+            "3 km",
+            "4 km",
+            "5 km",
+            "7 km"
+        ],
+        "correctAnswer": "5 km",
+        "explanation": "He moves 3 km total East (1+2) and 4 km net North (9-5). Using the Pythagorean theorem (3^2 + 4^2 = c^2), the distance from the start is 5 km."
+    },
+    {
+        "id": "math-p1-88",
+        "category": "Maths",
+        "question": "The smallest number when increased by 1 is exactly divisible by 12, 18, 24, 32, and 40 is:",
+        "options": [
+            "1437",
+            "1439",
+            "1440",
+            "1441"
+        ],
+        "correctAnswer": "1439",
+        "explanation": "Find the LCM of 12, 18, 24, 32, and 40 which is 1440. Since the number is increased by 1 to be divisible, subtract 1: 1440 - 1 = 1439."
+    },
+    {
+        "id": "math-p1-89",
+        "category": "Maths",
+        "question": "The radius of a semi circle is 63 cm, then its perimeter is:",
+        "options": [
+            "180 cm",
+            "198 cm",
+            "190 cm",
+            "130 cm"
+        ],
+        "correctAnswer": "198 cm",
+        "explanation": "The perimeter of a semicircle is (π * r) + 2r. (22/7 * 63) = 198 cm approx depending on the pi value taken."
+    },
+    {
+        "id": "math-p1-90",
+        "category": "Maths",
+        "question": "The sum of four consecutive even numbers is 292. The smallest number is:",
+        "options": [
+            "74",
+            "72",
+            "70",
+            "68"
+        ],
+        "correctAnswer": "70",
+        "explanation": "Let numbers be x, x+2, x+4, x+6. 4x + 12 = 292 => 4x = 280 => x = 70."
+    },
+    {
+        "id": "math-p2-86",
+        "category": "Maths",
+        "question": "What is the Distance traveled by a car which traveled at a speed of 80 km/hr for 3 hours and 30 minutes?",
+        "options": [
+            "275 km",
+            "280 km",
+            "285 km",
+            "290 km"
+        ],
+        "correctAnswer": "280 km",
+        "explanation": "Distance = Speed x Time. 80 * 3.5 hours = 280 km."
+    },
+    {
+        "id": "math-p2-88",
+        "category": "Maths",
+        "question": "In a total investment of $500,000, B's share is 20%, while A's share is 40% of B's. What is the share of A?",
+        "options": [
+            "$32,000",
+            "$34,000",
+            "$36,000",
+            "$40,000"
+        ],
+        "correctAnswer": "$40,000",
+        "explanation": "B's share = 20% of 500,000 = 100,000. A's share = 40% of 100,000 = $40,000."
+    },
+    {
+        "id": "math-p2-89",
+        "category": "Maths",
+        "question": "What is the name of a triangle with two sides of equal length?",
+        "options": [
+            "Isosceles",
+            "Equilateral",
+            "Scalene",
+            "Right triangle"
+        ],
+        "correctAnswer": "Isosceles",
+        "explanation": "An isosceles triangle has two equal sides and two equal angles."
+    },
+    {
+        "id": "math-21-94",
+        "category": "Maths",
+        "question": "Two people can make 2 bicycles in 2 hours. How many people are needed to make 12 bicycles in 6 hours?",
+        "options": [
+            "6",
+            "4",
+            "2",
+            "1"
+        ],
+        "correctAnswer": "4",
+        "explanation": "1 person makes 1 bicycle in 2 hours. So, 1 person makes 3 bicycles in 6 hours. To make 12 bicycles in 6 hours, 12/3 = 4 people are needed."
+    },
+    {
+        "id": "math-21-96",
+        "category": "Maths",
+        "question": "The price of an article was cut by 20% for sale. By what percent the discounted item be increased to again sell the article at the original price?",
+        "options": [
+            "15%",
+            "20%",
+            "25%",
+            "30%"
+        ],
+        "correctAnswer": "25%",
+        "explanation": "Assume original price is 100. Cut by 20%, it becomes 80. To get back to 100, increase by 20. The percentage increase is (20/80) * 100 = 25%."
+    },
+    {
+        "id": "math-21-97",
+        "category": "Maths",
+        "question": "Some months have 31 days; how many have 28?",
+        "options": [
+            "1",
+            "3",
+            "9",
+            "12"
+        ],
+        "correctAnswer": "12",
+        "explanation": "All 12 months have at least 28 days."
+    },
+    {
+        "id": "math-21-95",
+        "category": "Maths",
+        "question": "What is the number that is 1/3 of 1/5 of 1/10 of 300?",
+        "options": [
+            "2",
+            "15",
+            "30",
+            "50"
+        ],
+        "correctAnswer": "2",
+        "explanation": "1/10 of 300 = 30. 1/5 of 30 = 6. 1/3 of 6 = 2."
+    },
+    {
+        "id": "math-22-95",
+        "category": "Maths",
+        "question": "The price of an article was cut by 40% for sale. By what percent must the discounted item be increased to again sell the article at the original price?",
+        "options": [
+            "15.5%",
+            "20.66%",
+            "66.66%",
+            "30%"
+        ],
+        "correctAnswer": "66.66%",
+        "explanation": "Assume price 100. Cut to 60. To get back to 100, increase by 40. Percentage = (40/60)*100 = 66.66%."
+    },
+    {
+        "id": "gk-01",
+        "category": "General Knowledge",
+        "question": "Which is the largest desert in Pakistan?",
+        "options": [
+            "Thar",
+            "Cholistan",
+            "Thal",
+            "Kharan"
+        ],
+        "correctAnswer": "Thar",
+        "explanation": "The Thar Desert is the largest desert in Pakistan, located in Sindh."
+    },
+    {
+        "id": "gk-02",
+        "category": "General Knowledge",
+        "question": "The capital of Australia is:",
+        "options": [
+            "Sydney",
+            "Melbourne",
+            "Canberra",
+            "Perth"
+        ],
+        "correctAnswer": "Canberra",
+        "explanation": "Canberra is the capital city of Australia, not Sydney as often mistakenly believed."
+    },
+    {
+        "id": "gk-03",
+        "category": "General Knowledge",
+        "question": "Which is the highest mountain peak in Pakistan?",
+        "options": [
+            "Nanga Parbat",
+            "K2 (Godwin Austen)",
+            "Broad Peak",
+            "Tirich Mir"
+        ],
+        "correctAnswer": "K2 (Godwin Austen)",
+        "explanation": "K2 is the highest peak in Pakistan and the second-highest in the world at 8,611 meters."
+    },
+    {
+        "id": "gk-04",
+        "category": "General Knowledge",
+        "question": "When was the first constitution of Pakistan enforced?",
+        "options": [
+            "1947",
+            "1956",
+            "1962",
+            "1973"
+        ],
+        "correctAnswer": "1956",
+        "explanation": "Pakistan's first constitution was enforced on 23rd March 1956."
+    },
+    {
+        "id": "gk-05",
+        "category": "General Knowledge",
+        "question": "Where is the headquarters of OIC (Organization of Islamic Cooperation) located?",
+        "options": [
+            "Riyadh",
+            "Jeddah",
+            "Dubai",
+            "Istanbul"
+        ],
+        "correctAnswer": "Jeddah",
+        "explanation": "The headquarters of the OIC is located in Jeddah, Saudi Arabia."
+    },
+    {
+        "id": "gk-06",
+        "category": "General Knowledge",
+        "question": "What is the currency of Japan?",
+        "options": [
+            "Yuan",
+            "Yen",
+            "Won",
+            "Ringgit"
+        ],
+        "correctAnswer": "Yen",
+        "explanation": "The Japanese Yen is the official currency of Japan."
+    },
+    {
+        "id": "gk-07",
+        "category": "General Knowledge",
+        "question": "Which is the longest river in the world?",
+        "options": [
+            "Amazon River",
+            "Yangtze River",
+            "Nile River",
+            "Mississippi River"
+        ],
+        "correctAnswer": "Nile River",
+        "explanation": "The Nile River in Africa is traditionally considered the longest river in the world."
+    },
+    {
+        "id": "gk-08",
+        "category": "General Knowledge",
+        "question": "What is the national flower of Pakistan?",
+        "options": [
+            "Rose",
+            "Tulip",
+            "Jasmine",
+            "Sunflower"
+        ],
+        "correctAnswer": "Jasmine",
+        "explanation": "Jasmine (Chambeli) is the national flower of Pakistan."
+    },
+    {
+        "id": "gk-09",
+        "category": "General Knowledge",
+        "question": "Which is the largest ocean on Earth?",
+        "options": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Arctic Ocean",
+            "Pacific Ocean"
+        ],
+        "correctAnswer": "Pacific Ocean",
+        "explanation": "The Pacific Ocean is the largest and deepest of Earth's oceanic divisions."
+    },
+    {
+        "id": "gk-10",
+        "category": "General Knowledge",
+        "question": "The objective resolution of Pakistan was passed in:",
+        "options": [
+            "1947",
+            "1948",
+            "1949",
+            "1950"
+        ],
+        "correctAnswer": "1949",
+        "explanation": "The Objective Resolution was passed by the Constituent Assembly of Pakistan on March 12, 1949."
+    },
+    {
+        "id": "gs-01",
+        "category": "General Science",
+        "question": "Which cell organelle is known as the powerhouse of the cell?",
+        "options": [
+            "Nucleus",
+            "Ribosome",
+            "Mitochondria",
+            "Golgi body"
+        ],
+        "correctAnswer": "Mitochondria",
+        "explanation": "Mitochondria generate most of the chemical energy needed to power the cell's biochemical reactions."
+    },
+    {
+        "id": "gs-02",
+        "category": "General Science",
+        "question": "What is the chemical symbol for Gold?",
+        "options": [
+            "Ag",
+            "Au",
+            "Pb",
+            "Fe"
+        ],
+        "correctAnswer": "Au",
+        "explanation": "The chemical symbol for Gold is Au, from the Latin word 'Aurum'."
+    },
+    {
+        "id": "gs-03",
+        "category": "General Science",
+        "question": "Which is the nearest planet to the Sun?",
+        "options": [
+            "Venus",
+            "Earth",
+            "Mars",
+            "Mercury"
+        ],
+        "correctAnswer": "Mercury",
+        "explanation": "Mercury is the closest planet to the Sun in our Solar System."
+    },
+    {
+        "id": "gs-04",
+        "category": "General Science",
+        "question": "What is the SI unit of Force?",
+        "options": [
+            "Joule",
+            "Pascal",
+            "Newton",
+            "Watt"
+        ],
+        "correctAnswer": "Newton",
+        "explanation": "The SI unit of force is the Newton (N), named after Sir Isaac Newton."
+    },
+    {
+        "id": "gs-05",
+        "category": "General Science",
+        "question": "At what temperature does water boil (at standard atmospheric pressure)?",
+        "options": [
+            "100°C",
+            "90°C",
+            "120°C",
+            "110°C"
+        ],
+        "correctAnswer": "100°C",
+        "explanation": "Water boils at 100 degrees Celsius or 212 degrees Fahrenheit at sea level."
+    },
+    {
+        "id": "gs-06",
+        "category": "General Science",
+        "question": "Which vitamin is synthesized in the human body with the help of sunlight?",
+        "options": [
+            "Vitamin A",
+            "Vitamin B",
+            "Vitamin C",
+            "Vitamin D"
+        ],
+        "correctAnswer": "Vitamin D",
+        "explanation": "Vitamin D is produced by the body when your skin is exposed to sunlight."
+    },
+    {
+        "id": "gs-07",
+        "category": "General Science",
+        "question": "Which is the lightest gas in the periodic table?",
+        "options": [
+            "Oxygen",
+            "Helium",
+            "Nitrogen",
+            "Hydrogen"
+        ],
+        "correctAnswer": "Hydrogen",
+        "explanation": "Hydrogen is the lightest element and the lightest gas."
+    },
+    {
+        "id": "gs-08",
+        "category": "General Science",
+        "question": "Sound cannot travel through:",
+        "options": [
+            "Water",
+            "Steel",
+            "Vacuum",
+            "Air"
+        ],
+        "correctAnswer": "Vacuum",
+        "explanation": "Sound is a mechanical wave and requires a medium (like air, water, or solid) to travel. It cannot travel in a vacuum."
+    },
+    {
+        "id": "gs-09",
+        "category": "General Science",
+        "question": "What is the primary function of red blood cells?",
+        "options": [
+            "Fight infection",
+            "Carry oxygen",
+            "Clot blood",
+            "Produce antibodies"
+        ],
+        "correctAnswer": "Carry oxygen",
+        "explanation": "Red blood cells contain hemoglobin, which carries oxygen from the lungs to the rest of the body."
+    },
+    {
+        "id": "gs-10",
+        "category": "General Science",
+        "question": "Which gas is most abundant in the Earth's atmosphere?",
+        "options": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Argon"
+        ],
+        "correctAnswer": "Nitrogen",
+        "explanation": "Nitrogen makes up about 78% of the Earth's atmosphere."
+    },
+    {
+        "id": "2016-eng-1",
+        "category": "English",
+        "question": "What is synonym of DIRE?",
+        "options": [
+            "Questionable",
+            "Urgent",
+            "Forth Right",
+            "Traitor"
+        ],
+        "correctAnswer": "Urgent",
+        "explanation": "The synonym of dire is urgent, indicating a situation that is extremely serious or pressing[cite: 24]."
+    },
+    {
+        "id": "2016-eng-2",
+        "category": "English",
+        "question": "What is synonym of REFORM?",
+        "options": [
+            "Improvement",
+            "Punish",
+            "Destroy",
+            "Display"
+        ],
+        "correctAnswer": "Improvement",
+        "explanation": "To reform means to make changes in order to improve something[cite: 24]."
+    },
+    {
+        "id": "2017-eng-1",
+        "category": "English",
+        "question": "What is the Synonym of IMMACULATE?",
+        "options": [
+            "Dirty",
+            "Pure",
+            "Filthy",
+            "Neutral"
+        ],
+        "correctAnswer": "Pure",
+        "explanation": "Immaculate means perfectly clean, neat, or pure[cite: 25]."
+    },
+    {
+        "id": "2017-eng-7",
+        "category": "English",
+        "question": "What is the Antonym of ABHOR?",
+        "options": [
+            "Love",
+            "Likeness",
+            "Attract",
+            "Loathe"
+        ],
+        "correctAnswer": "Love",
+        "explanation": "Abhor means to regard with disgust and hatred, so its antonym is love[cite: 25]."
+    },
+    {
+        "id": "2018-eng-1",
+        "category": "English",
+        "question": "What is the Synonym of CERTAIN?",
+        "options": [
+            "Doubtful",
+            "Disagree",
+            "Sure",
+            "Stranger"
+        ],
+        "correctAnswer": "Sure",
+        "explanation": "Certain means known for sure or established beyond doubt[cite: 26]."
+    },
+    {
+        "id": "2018-eng-6",
+        "category": "English",
+        "question": "What is the Antonym of TOGETHER?",
+        "options": [
+            "Separate",
+            "Positive",
+            "Problem",
+            "Loathe"
+        ],
+        "correctAnswer": "Separate",
+        "explanation": "Together means with or in proximity to another, making separate its direct opposite[cite: 26]."
+    },
+    {
+        "id": "2019-eng-2",
+        "category": "English",
+        "question": "What is the Synonym of EVADE?",
+        "options": [
+            "Capture",
+            "Convicted",
+            "Avoid",
+            "Seize"
+        ],
+        "correctAnswer": "Avoid",
+        "explanation": "To evade means to escape or avoid, especially by cleverness or trickery[cite: 27]."
+    },
+    {
+        "id": "2019-eng-8",
+        "category": "English",
+        "question": "What is the Antonym of DEVISE?",
+        "options": [
+            "Destroy",
+            "Plan",
+            "Difference",
+            "Sensitive"
+        ],
+        "correctAnswer": "Destroy",
+        "explanation": "To devise means to plan or invent, so the opposite action is to destroy[cite: 27]."
+    },
+    {
+        "id": "2019-eng-16",
+        "category": "English",
+        "question": "Choose the CORRECT Spelling?",
+        "options": [
+            "Europian",
+            "Uropion",
+            "Eurapeon",
+            "European"
+        ],
+        "correctAnswer": "European",
+        "explanation": "The correct spelling for someone or something from Europe is European[cite: 27]."
+    },
+    {
+        "id": "2019-eng-17",
+        "category": "English",
+        "question": "Choose the CORRECT Spelling?",
+        "options": [
+            "Vocabulary",
+            "Vocablury",
+            "Vocabilory",
+            "Vocabliry"
+        ],
+        "correctAnswer": "Vocabulary",
+        "explanation": "The correct spelling is Vocabulary, which refers to a body of words[cite: 27]."
+    },
+    {
+        "id": "2016-gk-33",
+        "category": "General Knowledge",
+        "question": "Which battle laid the foundation of Mughal rule in India?",
+        "options": [
+            "Battle of Talikota",
+            "Panipat battle",
+            "Battle of Chausa",
+            "Battle of Plassey"
+        ],
+        "correctAnswer": "Panipat battle",
+        "explanation": "The First Battle of Panipat laid the foundation of the Mughal Empire in India[cite: 24]."
+    },
+    {
+        "id": "2016-gk-37",
+        "category": "General Knowledge",
+        "question": "Shalimar Gardens are located in?",
+        "options": [
+            "Lahore",
+            "Multan",
+            "Peshawar",
+            "Rawalpindi"
+        ],
+        "correctAnswer": "Lahore",
+        "explanation": "The historic Shalimar Gardens are located in Lahore, Pakistan[cite: 24]."
+    },
+    {
+        "id": "2017-gk-31",
+        "category": "General Knowledge",
+        "question": "The Largest River in the world is?",
+        "options": [
+            "Indus River",
+            "Nile River",
+            "Jhelum River",
+            "Amazon River"
+        ],
+        "correctAnswer": "Amazon River",
+        "explanation": "The Amazon River is the largest river in the world by volume of water discharged[cite: 25]."
+    },
+    {
+        "id": "2017-gk-45",
+        "category": "General Knowledge",
+        "question": "Madrid is the capital city of?",
+        "options": [
+            "France",
+            "Germany",
+            "Spain",
+            "Italy"
+        ],
+        "correctAnswer": "Spain",
+        "explanation": "Madrid is the capital and most populous city of Spain[cite: 25]."
+    },
+    {
+        "id": "2018-gk-32",
+        "category": "General Knowledge",
+        "question": "The Largest Mosque in the world is?",
+        "options": [
+            "Masjid-e-Quba Madina",
+            "Masjid-e-Qiblatain Madina",
+            "Masjid-e-Nabwi Madina",
+            "Masjid-Al-Haram Mecca"
+        ],
+        "correctAnswer": "Masjid-Al-Haram Mecca",
+        "explanation": "Masjid-Al-Haram in Mecca is the largest mosque in the world[cite: 26]."
+    },
+    {
+        "id": "2018-gk-41",
+        "category": "General Knowledge",
+        "question": "\"Eiffel Tower\" is situated in?",
+        "options": [
+            "Sydney",
+            "Paris",
+            "New York",
+            "London"
+        ],
+        "correctAnswer": "Paris",
+        "explanation": "The Eiffel Tower is a wrought-iron lattice tower located in Paris, France[cite: 26]."
+    },
+    {
+        "id": "2019-gk-31",
+        "category": "General Knowledge",
+        "question": "Area wise the world's largest enclosed body of water on Earth is?",
+        "options": [
+            "Dead Sea",
+            "Sea of Japan",
+            "Caspian Sea",
+            "Red Sea"
+        ],
+        "correctAnswer": "Caspian Sea",
+        "explanation": "The Caspian Sea is the world's largest inland body of water[cite: 27]."
+    },
+    {
+        "id": "2019-gk-34",
+        "category": "General Knowledge",
+        "question": "\"Taj Mahal\" was built by Mughal Emperor Shah Jahan in memory of his favorite wife?",
+        "options": [
+            "Kandhari Mahal",
+            "Akbarabadi Mahal",
+            "Mumtaz Mahal",
+            "Hasina Begum"
+        ],
+        "correctAnswer": "Mumtaz Mahal",
+        "explanation": "The Taj Mahal was commissioned by Shah Jahan to house the tomb of his favorite wife, Mumtaz Mahal[cite: 27]."
+    },
+    {
+        "id": "2019-gk-39",
+        "category": "General Knowledge",
+        "question": "The currency of China is?",
+        "options": [
+            "Yen",
+            "Yuan",
+            "Ringgit",
+            "Baht"
+        ],
+        "correctAnswer": "Yuan",
+        "explanation": "The Yuan is the basic unit of the renminbi, the official currency of China[cite: 27]."
+    },
+    {
+        "id": "2019-gk-42",
+        "category": "General Knowledge",
+        "question": "The capital of USA is?",
+        "options": [
+            "New York",
+            "Chicago",
+            "Washington D.C",
+            "Los Angeles"
+        ],
+        "correctAnswer": "Washington D.C",
+        "explanation": "Washington, D.C. is the capital city of the United States of America[cite: 27]."
+    },
+    {
+        "id": "2016-sci-51",
+        "category": "General Science",
+        "question": "The S.I unit of electrical charge is?",
+        "options": [
+            "Ohm",
+            "Coulomb",
+            "Watt",
+            "Farad"
+        ],
+        "correctAnswer": "Coulomb",
+        "explanation": "The coulomb is the International System of Units (SI) unit of electric charge[cite: 24]."
+    },
+    {
+        "id": "2016-sci-54",
+        "category": "General Science",
+        "question": "Which of the following acid is produced in our stomach to digest food?",
+        "options": [
+            "Sulphuric acid",
+            "Carbonic acid",
+            "Nitric acid",
+            "Hydrochloric acid"
+        ],
+        "correctAnswer": "Hydrochloric acid",
+        "explanation": "Hydrochloric acid is the primary digestive acid produced in the human stomach[cite: 24]."
+    },
+    {
+        "id": "2017-sci-51",
+        "category": "General Science",
+        "question": "The Chemical formula of Gold is?",
+        "options": [
+            "Al",
+            "Gd",
+            "W",
+            "Au"
+        ],
+        "correctAnswer": "Au",
+        "explanation": "The chemical symbol for Gold is Au, derived from the Latin word 'Aurum'[cite: 25]."
+    },
+    {
+        "id": "2017-sci-54",
+        "category": "General Science",
+        "question": "Normal blood pressure of healthy adult person is?",
+        "options": [
+            "110/90",
+            "120/80",
+            "120/100",
+            "140/60"
+        ],
+        "correctAnswer": "120/80",
+        "explanation": "A normal blood pressure reading for a healthy adult is considered to be around 120/80 mmHg[cite: 25]."
+    },
+    {
+        "id": "2018-sci-53",
+        "category": "General Science",
+        "question": "The S.I unit of electric current is?",
+        "options": [
+            "Ohm",
+            "Ampere",
+            "Coulomb",
+            "Volt"
+        ],
+        "correctAnswer": "Ampere",
+        "explanation": "The ampere is the base unit of electric current in the International System of Units[cite: 26]."
+    },
+    {
+        "id": "2018-sci-58",
+        "category": "General Science",
+        "question": "CNG stands for?",
+        "options": [
+            "Conduced Nitrogen Gas",
+            "Compressed Nitrogen Gas",
+            "Conduced Natural Gas",
+            "Compressed Natural Gas"
+        ],
+        "correctAnswer": "Compressed Natural Gas",
+        "explanation": "CNG stands for Compressed Natural Gas, an eco-friendly alternative to gasoline[cite: 26]."
+    },
+    {
+        "id": "2019-sci-53",
+        "category": "General Science",
+        "question": "The chemical formula of Methane gas is?",
+        "options": [
+            "CH",
+            "CH4",
+            "CH3O",
+            "C2H4"
+        ],
+        "correctAnswer": "CH4",
+        "explanation": "Methane is a chemical compound with the chemical formula CH4[cite: 27]."
+    },
+    {
+        "id": "2019-sci-61",
+        "category": "General Science",
+        "question": "Which color of clothes is a good reflector of heat?",
+        "options": [
+            "Black Color",
+            "Blue Color",
+            "Brown Color",
+            "White Color"
+        ],
+        "correctAnswer": "White Color",
+        "explanation": "White clothing reflects most of the visible wavelengths of light and heat[cite: 27]."
+    },
+    {
+        "id": "2019-sci-63",
+        "category": "General Science",
+        "question": "Which of the following is the S.I unit for mass?",
+        "options": [
+            "Kilogram",
+            "Ampere",
+            "Meter",
+            "Second"
+        ],
+        "correctAnswer": "Kilogram",
+        "explanation": "The kilogram is the base unit of mass in the International System of Units[cite: 27]."
+    },
+    {
+        "id": "2019-sci-70",
+        "category": "General Science",
+        "question": "Which of the following planets of the Solar system is the coldest planet?",
+        "options": [
+            "Mercury",
+            "Neptune",
+            "Mars",
+            "Jupiter"
+        ],
+        "correctAnswer": "Neptune",
+        "explanation": "Neptune is generally considered the coldest planet in our solar system due to its distance from the sun[cite: 27]."
+    },
+    {
+        "id": "2016-math-77",
+        "category": "Maths",
+        "question": "If a number is divided by its reciprocal, the result is?",
+        "options": [
+            "Square of a Number",
+            "Number itself",
+            "1",
+            "0"
+        ],
+        "correctAnswer": "Square of a Number",
+        "explanation": "Dividing a number x by its reciprocal (1/x) is equal to multiplying x by x, resulting in the square of the number[cite: 24]."
+    },
+    {
+        "id": "2016-math-74",
+        "category": "Maths",
+        "question": "A person bought one kilogram of apples for Rs.60 and sold for Rs.90, find the profit in percentage?",
+        "options": [
+            "30%",
+            "40%",
+            "50%",
+            "None of these"
+        ],
+        "correctAnswer": "50%",
+        "explanation": "Profit = 90 - 60 = 30. Profit percentage = (30/60) * 100 = 50%[cite: 24]."
+    },
+    {
+        "id": "2017-math-89",
+        "category": "Maths",
+        "question": "The average of four consecutive odd numbers is 24. The largest number is?",
+        "options": [
+            "29",
+            "27",
+            "35",
+            "21"
+        ],
+        "correctAnswer": "27",
+        "explanation": "If the average of four consecutive odd numbers is 24, the numbers are centered around 24: 21, 23, 25, 27. The largest is 27[cite: 25]."
+    },
+    {
+        "id": "2017-math-78",
+        "category": "Maths",
+        "question": "If 3z/2 + 4z/2 + 5z/2 = 36 what is the value of z?",
+        "options": [
+            "2",
+            "6",
+            "8",
+            "4"
+        ],
+        "correctAnswer": "6",
+        "explanation": "Combining the fractions: (3z + 4z + 5z) / 2 = 12z / 2 = 6z. If 6z = 36, then z = 6[cite: 25]."
+    },
+    {
+        "id": "2018-math-72",
+        "category": "Maths",
+        "question": "Fraction of 20% is?",
+        "options": [
+            "1/8",
+            "1/25",
+            "1/5",
+            "1/4"
+        ],
+        "correctAnswer": "1/5",
+        "explanation": "20% means 20/100, which simplifies to the fraction 1/5[cite: 26]."
+    },
+    {
+        "id": "2018-math-85",
+        "category": "Maths",
+        "question": "If each side of a cube is doubled, then its volume becomes?",
+        "options": [
+            "4 Times",
+            "3 Times",
+            "8 Times",
+            "2 Times"
+        ],
+        "correctAnswer": "8 Times",
+        "explanation": "The volume of a cube is side^3. If the side is doubled (2x), the new volume is (2x)^3 = 8x^3, which is 8 times the original[cite: 26]."
+    },
+    {
+        "id": "2018-math-90",
+        "category": "Maths",
+        "question": "The largest perfect square between 4 and 50 is?",
+        "options": [
+            "49",
+            "36",
+            "25",
+            "16"
+        ],
+        "correctAnswer": "49",
+        "explanation": "The perfect squares under 50 are 4, 9, 16, 25, 36, 49. The largest is 49 (7^2)[cite: 26]."
+    },
+    {
+        "id": "2019-math-76",
+        "category": "Maths",
+        "question": "(1000)2 x (0010)2 is equal to?",
+        "options": [
+            "18",
+            "16",
+            "20",
+            "21"
+        ],
+        "correctAnswer": "16",
+        "explanation": "In binary, (1000)2 is 8 and (0010)2 is 2. Multiplying them gives 8 * 2 = 16[cite: 27]."
+    },
+    {
+        "id": "2019-math-86",
+        "category": "Maths",
+        "question": "If x^3 = 27, then x is equal to?",
+        "options": [
+            "4",
+            "3",
+            "5",
+            "6"
+        ],
+        "correctAnswer": "3",
+        "explanation": "The cube root of 27 is 3, since 3 * 3 * 3 = 27[cite: 27]."
+    },
+    {
+        "id": "2019-math-85",
+        "category": "Maths",
+        "question": "20 x 15 + 12 ÷ 3 is equal to?",
+        "options": [
+            "180",
+            "200",
+            "304",
+            "403"
+        ],
+        "correctAnswer": "304",
+        "explanation": "Using BODMAS: First divide (12 / 3 = 4), then multiply (20 * 15 = 300), then add (300 + 4 = 304)[cite: 27]."
+    },
+    {
+        "id": "2016-iq-91",
+        "category": "IQ",
+        "question": "What is the product of all the numbers in the dial of a telephone?",
+        "options": [
+            "362880",
+            "425420",
+            "36288",
+            "Zero"
+        ],
+        "correctAnswer": "Zero",
+        "explanation": "A telephone dial contains the number 0. Multiplying any sequence of numbers by zero always results in zero[cite: 24]."
+    },
+    {
+        "id": "2016-iq-93",
+        "category": "IQ",
+        "question": "A shepherd had 17 sheep's. All but nine died, how many was he left with?",
+        "options": [
+            "17",
+            "6",
+            "Zero",
+            "9"
+        ],
+        "correctAnswer": "9",
+        "explanation": "If 'all but nine died', it means that 9 sheep survived[cite: 24]."
+    },
+    {
+        "id": "2017-iq-93",
+        "category": "IQ",
+        "question": "There are 12 pens on the table, you took 3. How many do you have?",
+        "options": [
+            "9",
+            "3",
+            "12",
+            "15"
+        ],
+        "correctAnswer": "3",
+        "explanation": "If you took 3 pens, you possess exactly the 3 pens you took[cite: 25]."
+    },
+    {
+        "id": "2017-iq-92",
+        "category": "IQ",
+        "question": "At a conference, 12 members shook hands with each other before and after the meeting. How many total member of hand shakes occurred?",
+        "options": [
+            "114",
+            "100",
+            "132",
+            "121"
+        ],
+        "correctAnswer": "132",
+        "explanation": "Handshakes for n people once is n(n-1)/2. For 12 people it is 12*11/2 = 66. Doing it before AND after makes it 66 * 2 = 132[cite: 25]."
+    },
+    {
+        "id": "2018-iq-92",
+        "category": "IQ",
+        "question": "Aslam is very hungry. His stomach is completely empty. He has many cookies with him. He eats the cookies one by one. How many cookies can Aslam eat in his completely empty stomach?",
+        "options": [
+            "1",
+            "0",
+            "Can not be determined",
+            "400"
+        ],
+        "correctAnswer": "1",
+        "explanation": "After eating the first cookie, his stomach is no longer completely empty[cite: 26]."
+    },
+    {
+        "id": "2018-iq-94",
+        "category": "IQ",
+        "question": "At the end of a meeting 10 people shake hands with each other. How many handshakes will there be in total?",
+        "options": [
+            "100",
+            "45",
+            "20",
+            "50"
+        ],
+        "correctAnswer": "45",
+        "explanation": "Using the combination formula n(n-1)/2 for handshakes among 10 people: 10*9/2 = 45[cite: 26]."
+    },
+    {
+        "id": "2019-iq-93",
+        "category": "IQ",
+        "question": "If two typists can type two pages in five minutes, how many typists will take it to type twenty pages in ten minutes?",
+        "options": [
+            "8",
+            "10",
+            "11",
+            "14"
+        ],
+        "correctAnswer": "10",
+        "explanation": "2 typists type 2 pages in 5 mins (meaning 1 typist types 1 page in 5 mins, or 2 pages in 10 mins). To type 20 pages in 10 mins, you need 20 / 2 = 10 typists[cite: 27]."
+    },
+    {
+        "id": "2019-iq-95",
+        "category": "IQ",
+        "question": "Athar was both 5th highest and 5th lowest in a race. How many people participated in the race?",
+        "options": [
+            "8",
+            "9",
+            "10",
+            "11"
+        ],
+        "correctAnswer": "9",
+        "explanation": "There are 4 people ahead of him and 4 people behind him. 4 + 1 (Athar) + 4 = 9 people[cite: 27]."
+    },
+    {
+        "id": "2019-iq-97",
+        "category": "IQ",
+        "question": "If a doctor gives you 3 pills (Tablets) and tells you to take one pill every half hour. How long would it be before, all the pills have been taken?",
+        "options": [
+            "1 Hour",
+            "2 Hours",
+            "3 Hours",
+            "4 Hours"
+        ],
+        "correctAnswer": "1 Hour",
+        "explanation": "You take the 1st pill immediately at 0 minutes, the 2nd at 30 minutes, and the 3rd at 60 minutes (1 Hour)[cite: 27]."
+    },
+    {
+        "id": "2019-iq-98",
+        "category": "IQ",
+        "question": "Divided 30 by half and add ten, what you get?",
+        "options": [
+            "25",
+            "80",
+            "70",
+            "45"
+        ],
+        "correctAnswer": "70",
+        "explanation": "Dividing by half (0.5) is the same as multiplying by 2. So, 30 / 0.5 = 60. Then add 10 to get 70[cite: 27]."
+    }
+]

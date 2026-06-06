@@ -1,0 +1,85 @@
+{
+    "testInfo": {
+        "totalMcqs": 100,
+        "timeLimit": "90 minutes",
+        "totalSubjects": 5
+    },
+    "subjects": [
+        {
+            "id": "eng",
+            "name": "English",
+            "mcqs": 30,
+            "color": "bg-blue-50 border-blue-200 text-blue-800",
+            "topics": [
+                "Synonyms & Antonyms",
+                "Correct Spelling",
+                "Narration (Direct & Indirect)",
+                "Voices (Active & Passive)",
+                "Prepositions",
+                "Choose the Correct answer of the Underlined words",
+                "Choose the incorrect underlined segment",
+                "Parts of Speech"
+            ]
+        },
+        {
+            "id": "gk",
+            "name": "General Knowledge",
+            "mcqs": 20,
+            "color": "bg-green-50 border-green-200 text-green-800",
+            "topics": [
+                "Largest/Smallest in Pakistan/World (Rivers, Seas, Oceans)",
+                "Currencies and Capitals",
+                "Events in Sub-Continent",
+                "Official languages of the Countries",
+                "Geographical Direction/Location",
+                "Current Affairs (President/PM/Senate/Ministers)",
+                "Islamiat (Prophet's age, ghazwat & important events)",
+                "Deserts/Islands/Lakes/Seas & Valleys/Rivers",
+                "Books and their authors & Abbreviations"
+            ]
+        },
+        {
+            "id": "gs",
+            "name": "General Science",
+            "mcqs": 20,
+            "color": "bg-purple-50 border-purple-200 text-purple-800",
+            "topics": [
+                "Solar System & Universe/Planets info",
+                "Measurement Units",
+                "Chemical Symbols/Formulae",
+                "Human Body facts & Vitamins",
+                "True or False Statements (Basic Physics, Chemistry, Biology)",
+                "Basic Knowledge of Animals",
+                "Scientific Instruments & Inventions/Discoveries"
+            ]
+        },
+        {
+            "id": "math",
+            "name": "Maths (Simple Arithmetic)",
+            "mcqs": 20,
+            "color": "bg-red-50 border-red-200 text-red-800",
+            "topics": [
+                "Basic Arithmetic (Speed, time, profit-loss, average, ratio, percentage)",
+                "Rational and Irrational Numbers",
+                "Cos θ & Sin θ all equations",
+                "LCM and HCF",
+                "Fractions (Proper, Improper and Mixed)",
+                "Under root, Square & Algebraic Equations",
+                "Laws & Properties of sets-Union & Intersection"
+            ]
+        },
+        {
+            "id": "iq",
+            "name": "IQ",
+            "mcqs": 10,
+            "color": "bg-yellow-50 border-yellow-200 text-yellow-800",
+            "topics": [
+                "Word Series",
+                "Number Series",
+                "Diagrams and Pictures",
+                "Verbal & Non-verbal Reasoning",
+                "Practice from Past Papers"
+            ]
+        }
+    ]
+}

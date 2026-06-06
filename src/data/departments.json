@@ -1,0 +1,43 @@
+[
+    {
+        "id": "operating-systems",
+        "name": "Operating Systems",
+        "description": "Past papers for processes, threads, memory management, and file systems.",
+        "papers": [
+            {
+                "id": "os-mid-2025",
+                "title": "Mid Term 2025",
+                "fileUrl": "/papers/departments/operating-systems/mid-term-2025.pdf"
+            },
+            {
+                "id": "os-final-2024",
+                "title": "Final Term 2024",
+                "fileUrl": "/papers/departments/operating-systems/final-term-2024.pdf"
+            }
+        ]
+    },
+    {
+        "id": "artificial-intelligence",
+        "name": "Artificial Intelligence",
+        "description": "Past papers covering search algorithms, machine learning, and neural networks.",
+        "papers": [
+            {
+                "id": "ai-mid-2025",
+                "title": "Mid Term 2025",
+                "fileUrl": "/papers/departments/artificial-intelligence/mid-term-2025.pdf"
+            }
+        ]
+    },
+    {
+        "id": "data-science",
+        "name": "Data Science",
+        "description": "Past papers for data preprocessing, visualization, and time series analysis algorithms like ARIMA.",
+        "papers": [
+            {
+                "id": "ds-final-2025",
+                "title": "Final Term 2025",
+                "fileUrl": "/papers/departments/data-science/final-term-2025.pdf"
+            }
+        ]
+    }
+]
