@@ -62,13 +62,13 @@ export default function PaperViewer() {
 
             {/* Action Buttons */}
             <div className="flex flex-wrap justify-center gap-4 mb-6">
-                <a
-                    href={paper.fileUrl}
-                    download
+                {/* Humne <a> tag ko hata kar <Link> laga diya hai jo SecureDownload page par jayega */}
+                <Link
+                    to={`/download/${paper.id}`}
                     className="bg-green-600 hover:bg-green-700 text-white font-bold py-2 px-6 rounded-lg shadow transition-colors flex items-center gap-2"
                 >
                     📥 Download Original PDF
-                </a>
+                </Link>
             </div>
 
             {/* Custom PDF Viewer Window */}

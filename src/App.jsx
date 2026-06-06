@@ -9,6 +9,7 @@ import About from './pages/About';
 import PaperViewer from './pages/PaperViewer';
 import CpnCalculator from './pages/CpnCalculator';
 import EntryTestSyllabus from './pages/EntryTestSyllabus';
+import SecureDownload from './pages/SecureDownload';
 
 function App() {
   return (
@@ -35,6 +36,7 @@ function App() {
         <Route path="/paper/:paperId" element={<PaperViewer />} />
         <Route path="/cpn-calculator" element={<CpnCalculator />} />
         <Route path="/entry-test-syllabus" element={<EntryTestSyllabus />} />
+        <Route path="/download/:paperId" element={<SecureDownload />} />
       </Routes>
 
       {/* Final Footer with All Important Links */}
