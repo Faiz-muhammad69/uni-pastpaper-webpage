@@ -1,42 +1,121 @@
 [
     {
-        "id": "operating-systems",
-        "name": "Operating Systems",
-        "description": "Past papers for processes, threads, memory management, and file systems.",
+        "id": "dept-english",
+        "name": "English Language & Literature",
+        "description": "Semester past papers for English Language & Literature.",
         "papers": [
             {
-                "id": "os-mid-2025",
-                "title": "Mid Term 2025",
-                "fileUrl": "/papers/departments/operating-systems/mid-term-2025.pdf"
-            },
-            {
-                "id": "os-final-2024",
-                "title": "Final Term 2024",
-                "fileUrl": "/papers/departments/operating-systems/final-term-2024.pdf"
+                "id": "eng-collection-1",
+                "title": "English Dept Past Papers",
+                "fileUrl": "/papers/departments/english.pdf"
             }
         ]
     },
     {
-        "id": "artificial-intelligence",
-        "name": "Artificial Intelligence",
-        "description": "Past papers covering search algorithms, machine learning, and neural networks.",
+        "id": "dept-muslim-history",
+        "name": "Muslim History",
+        "description": "Semester past papers for Muslim History department.",
         "papers": [
             {
-                "id": "ai-mid-2025",
-                "title": "Mid Term 2025",
-                "fileUrl": "/papers/departments/artificial-intelligence/mid-term-2025.pdf"
+                "id": "mh-collection-1",
+                "title": "Muslim History Past Papers",
+                "fileUrl": "/papers/departments/muslim-history.pdf"
             }
         ]
     },
     {
-        "id": "data-science",
+        "id": "dept-plant-science",
+        "name": "Plant Science",
+        "description": "Semester past papers for Plant Science department.",
+        "papers": [
+            {
+                "id": "ps-collection-1",
+                "title": "Plant Science Past Papers",
+                "fileUrl": "/papers/departments/plant-science.pdf"
+            }
+        ]
+    },
+    {
+        "id": "dept-chemistry",
+        "name": "Chemistry",
+        "description": "Semester past papers for Chemistry department.",
+        "papers": [
+            {
+                "id": "chem-collection-1",
+                "title": "Chemistry Past Papers",
+                "fileUrl": "/papers/departments/chemistry.pdf"
+            }
+        ]
+    },
+    {
+        "id": "dept-zoology",
+        "name": "Zoology",
+        "description": "Semester past papers for Zoology department.",
+        "papers": [
+            {
+                "id": "zoo-collection-1",
+                "title": "Zoology Past Papers",
+                "fileUrl": "/papers/departments/zoology.pdf"
+            }
+        ]
+    },
+    {
+        "id": "dept-se",
+        "name": "Software Engineering",
+        "description": "Semester past papers for Software Engineering department.",
+        "papers": [
+            {
+                "id": "se-collection-1",
+                "title": "Software Engineering Papers",
+                "fileUrl": "/papers/departments/software-engineering.pdf"
+            }
+        ]
+    },
+    {
+        "id": "dept-it",
+        "name": "Information Technology",
+        "description": "Semester past papers for Information Technology department.",
+        "papers": [
+            {
+                "id": "it-collection-1",
+                "title": "Information Tech Papers",
+                "fileUrl": "/papers/departments/it.pdf"
+            }
+        ]
+    },
+    {
+        "id": "dept-cs",
+        "name": "Computer Science",
+        "description": "Semester past papers for Computer Science department.",
+        "papers": [
+            {
+                "id": "cs-collection-1",
+                "title": "Computer Science Papers",
+                "fileUrl": "/papers/departments/computer-science.pdf"
+            }
+        ]
+    },
+    {
+        "id": "dept-ds",
         "name": "Data Science",
-        "description": "Past papers for data preprocessing, visualization, and time series analysis algorithms like ARIMA.",
+        "description": "Semester past papers for Data Science department.",
         "papers": [
             {
-                "id": "ds-final-2025",
-                "title": "Final Term 2025",
-                "fileUrl": "/papers/departments/data-science/final-term-2025.pdf"
+                "id": "ds-collection-1",
+                "title": "Data Science Past Papers",
+                "fileUrl": "/papers/departments/data-science.pdf"
+            }
+        ]
+    },
+    {
+        "id": "dept-islamic",
+        "name": "Islamic Study",
+        "description": "Semester past papers for Islamic Study department.",
+        "papers": [
+            {
+                "id": "isl-collection-1",
+                "title": "Islamic Study Past Papers",
+                "fileUrl": "/papers/departments/islamic-study.pdf"
             }
         ]
     }
