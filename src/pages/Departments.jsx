@@ -17,7 +17,11 @@ export default function Departments() {
             </div>
 
             {/* TOP AD PLACEHOLDER */}
-            <AdsterraNativeAd />
+            <div>
+                <h1>Ads</h1>
+                <AdsterraNativeAd />
+            </div>
+
 
 
             {/* Cards Grid */}
