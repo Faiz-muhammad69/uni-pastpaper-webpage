@@ -10,6 +10,7 @@ import PaperViewer from './pages/PaperViewer';
 import CpnCalculator from './pages/CpnCalculator';
 import EntryTestSyllabus from './pages/EntryTestSyllabus';
 import SecureDownload from './pages/SecureDownload';
+import AdsterraNativeAd from '../components/AdsterraNativeAd';
 
 function App() {
   return (

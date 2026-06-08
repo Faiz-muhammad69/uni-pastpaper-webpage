@@ -1,5 +1,6 @@
 import departmentsData from '../data/departments.json';
 import { Link } from 'react-router-dom';
+import AdsterraNativeAd from '../components/AdsterraNativeAd';
 
 export default function Departments() {
     return (
@@ -16,9 +17,7 @@ export default function Departments() {
             </div>
 
             {/* TOP AD PLACEHOLDER */}
-            <div className="bg-gray-50 border border-dashed border-gray-300 p-4 mb-10 text-center text-xs text-gray-400 rounded-xl min-h-[90px] flex items-center justify-center">
-                [Google AdSense - Responsive Header Ad]
-            </div>
+            <AdsterraNativeAd />
 
             {/* Cards Grid */}
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -61,9 +60,7 @@ export default function Departments() {
                 ))}
 
                 {/* IN-FEED NATIVE AD (Grid ke andar fit hoga) */}
-                <div className="bg-gray-50 border border-dashed border-gray-300 p-6 text-center text-xs text-gray-400 rounded-3xl min-h-[250px] flex items-center justify-center col-span-1 md:col-span-2 lg:col-span-1">
-                    [Google AdSense - In-Feed Native Ad]
-                </div>
+                <AdsterraNativeAd />
             </div>
 
             {/* Bottom SEO Text Section - Keywords Rich */}
@@ -78,9 +75,7 @@ export default function Departments() {
             </div>
 
             {/* BOTTOM MULTIPLEX AD PLACEHOLDER */}
-            <div className="bg-gray-50 border border-dashed border-gray-300 p-4 mt-10 text-center text-xs text-gray-400 rounded-xl min-h-[300px] flex items-center justify-center">
-                [Google AdSense - Matched Content / Multiplex Ad]
-            </div>
+            <AdsterraNativeAd />
         </div>
     )
 }
