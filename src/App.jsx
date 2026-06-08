@@ -17,8 +17,8 @@ function App() {
       {/* Navbar with Contact Link */}
       <nav className="bg-blue-600 p-4 text-white flex gap-6 justify-center shadow-md flex-wrap">
         <Link to="/" className="hover:underline">Home</Link>
-        <Link to="/entry-tests" className="hover:underline ">Entry Test Past Papers </Link>
-        <Link to="/departments" className="hover:underline">University Past papers </Link>
+        <Link to="/entry-test-past-papers" className="hover:underline ">Entry Test Past Papers </Link>
+        <Link to="/sindh-university-past-papers" className="hover:underline">University Past papers </Link>
         <Link to="/mcqs" className="hover:underline">MCQs Test</Link>
         <Link to="/contact" className="hover:underline">Contact</Link>
         <Link to="/cpn-calculator" className="bg-yellow-400 text-black px-3 py-1 rounded font-bold hover:bg-yellow-300">CPN Calculator</Link>
@@ -27,8 +27,8 @@ function App() {
       {/* Pages Routes */}
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/entry-tests" element={<EntryTests />} />
-        <Route path="/departments" element={<Departments />} />
+        <Route path="/entry-test-past-papers" element={<EntryTests />} />
+        <Route path="/sindh-university-past-papers" element={<Departments />} />
         <Route path="/mcqs" element={<Mcqs />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/privacy-policy" element={<PrivacyPolicy />} />

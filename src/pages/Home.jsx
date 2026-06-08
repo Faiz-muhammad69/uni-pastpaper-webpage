@@ -40,7 +40,7 @@ export default function Home() {
             <section className="py-12 px-4 max-w-6xl mx-auto w-full">
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
                     {/* Feature 1 */}
-                    <Link to="/entry-tests" className="bg-white p-6 rounded-2xl shadow-sm border border-gray-100 hover:shadow-xl hover:border-blue-300 transition-all group text-center">
+                    <Link to="/entry-test-past-papers" className="bg-white p-6 rounded-2xl shadow-sm border border-gray-100 hover:shadow-xl hover:border-blue-300 transition-all group text-center">
                         <div className="text-4xl mb-4 group-hover:scale-110 transition-transform">📄</div>
                         <h3 className="text-lg font-bold text-gray-800 mb-2 group-hover:text-blue-600">Entry Tests</h3>
                         <p className="text-sm text-gray-500">Download year-wise original admission test PDFs.</p>
@@ -54,7 +54,7 @@ export default function Home() {
                     </Link>
 
                     {/* Feature 3 */}
-                    <Link to="/departments" className="bg-white p-6 rounded-2xl shadow-sm border border-gray-100 hover:shadow-xl hover:border-blue-300 transition-all group text-center">
+                    <Link to="/sindh-university-past-papers" className="bg-white p-6 rounded-2xl shadow-sm border border-gray-100 hover:shadow-xl hover:border-blue-300 transition-all group text-center">
                         <div className="text-4xl mb-4 group-hover:scale-110 transition-transform">🏛️</div>
                         <h3 className="text-lg font-bold text-gray-800 mb-2 group-hover:text-blue-600">Semester Papers</h3>
                         <p className="text-sm text-gray-500">Find mid-term and final-term papers by department.</p>
