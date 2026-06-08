@@ -21,9 +21,13 @@ export default function AdsterraNativeAd() {
     }, []);
 
     return (
-        <div className="w-full flex justify-center my-8 overflow-hidden">
-            {/* Yeh wahi exact div ID hai jo Adsterra ne aapko di hai */}
-            <div id="container-9ee86494953328181904e83cd758cb0f" ref={adContainerRef}></div>
+        <div>
+            <div className="w-full flex justify-center my-8 overflow-hidden">
+                {/* Yeh wahi exact div ID hai jo Adsterra ne aapko di hai */}
+                <div id="container-9ee86494953328181904e83cd758cb0f" ref={adContainerRef}></div>
+            </div>
+            <script async="async" data-cfasync="false" src="https://pl29675588.effectivecpmnetwork.com/9ee86494953328181904e83cd758cb0f/invoke.js"></script>
+            <div id="container-9ee86494953328181904e83cd758cb0f"></div>
         </div>
     );
 }
