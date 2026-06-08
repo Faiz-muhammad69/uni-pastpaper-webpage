@@ -24,7 +24,7 @@ export default function Home() {
 
                     {/* Primary Call to Action Buttons */}
                     <div className="flex justify-center gap-4 flex-wrap">
-                        <Link to="/entry-tests" className="bg-yellow-400 text-blue-900 font-extrabold py-3.5 px-8 rounded-full hover:bg-yellow-300 shadow-xl transition-transform hover:-translate-y-1 hover:shadow-2xl">
+                        <Link to="/entry-test-past-papers" className="bg-yellow-400 text-blue-900 font-extrabold py-3.5 px-8 rounded-full hover:bg-yellow-300 shadow-xl transition-transform hover:-translate-y-1 hover:shadow-2xl">
                             🚀 Start Preparation
                         </Link>
                         <Link to="/cpn-calculator" className="bg-white/10 backdrop-blur-md text-white border-2 border-white/50 font-bold py-3.5 px-8 rounded-full hover:bg-white/20 shadow-lg transition-transform hover:-translate-y-1">
