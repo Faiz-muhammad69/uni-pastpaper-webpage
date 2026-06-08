@@ -1,5 +1,10 @@
 import { useState } from 'react';
 import mcqsData from '../data/mcqsData.json';
+import AdsterraNativeAd from '../components/AdsterraNativeAd';
+import AdsterraMiddleAd from '../components/AdsterraMiddleAd';
+import AdsterraBottomAd from '../components/AdsterraBottomAd';
+
+
 
 export default function Mcqs() {
     // Unique Categories Extract karna ('All' hata diya gaya hai)
@@ -39,9 +44,7 @@ export default function Mcqs() {
             </div>
 
             {/* TOP AD PLACEHOLDER */}
-            <div className="bg-gray-50 border border-dashed border-gray-300 p-4 my-6 text-center text-xs text-gray-400 rounded min-h-[90px] flex items-center justify-center">
-                [Google AdSense - Responsive Header Ad]
-            </div>
+            <AdsterraNativeAd />
 
             {/* Category Filter Buttons */}
             <div className="flex flex-wrap gap-3 justify-center mb-10 bg-white p-4 rounded-2xl shadow-sm border border-gray-100">
@@ -50,8 +53,8 @@ export default function Mcqs() {
                         key={category}
                         onClick={() => setActiveCategory(category)}
                         className={`px-6 py-2.5 rounded-full font-bold transition-all duration-300 ${activeCategory === category
-                                ? 'bg-blue-600 text-white shadow-lg scale-105'
-                                : 'bg-gray-100 text-gray-700 hover:bg-blue-100 hover:text-blue-700'
+                            ? 'bg-blue-600 text-white shadow-lg scale-105'
+                            : 'bg-gray-100 text-gray-700 hover:bg-blue-100 hover:text-blue-700'
                             }`}
                     >
                         {category}
@@ -121,9 +124,8 @@ export default function Mcqs() {
 
                             {/* IN-ARTICLE AD (Har 5 questions ke baad aayega) */}
                             {(index + 1) % 5 === 0 && index !== filteredMcqs.length - 1 && (
-                                <div className="bg-gray-50 border border-dashed border-gray-300 p-4 my-8 text-center text-xs text-gray-400 rounded-xl min-h-[120px] flex items-center justify-center">
-                                    [Google AdSense - In-Article Native Ad]
-                                </div>
+
+                                <AdsterraMiddleAd />
                             )}
                         </div>
                     );
@@ -139,9 +141,7 @@ export default function Mcqs() {
             </div>
 
             {/* BOTTOM MULTIPLEX AD PLACEHOLDER */}
-            <div className="bg-gray-50 border border-dashed border-gray-300 p-4 my-10 text-center text-xs text-gray-400 rounded-xl min-h-[300px] flex items-center justify-center">
-                [Google AdSense - Matched Content / Multiplex Ad]
-            </div>
+            <AdsterraBottomAd />
 
         </div>
     );

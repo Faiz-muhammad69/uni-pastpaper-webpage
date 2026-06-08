@@ -1,6 +1,8 @@
 import departmentsData from '../data/departments.json';
 import { Link } from 'react-router-dom';
 import AdsterraNativeAd from '../components/AdsterraNativeAd';
+import AdsterraMiddleAd from '../components/AdsterraMiddleAd';
+import AdsterraBottomAd from '../components/AdsterraBottomAd';
 
 export default function Departments() {
     return (
@@ -18,10 +20,8 @@ export default function Departments() {
 
             {/* TOP AD PLACEHOLDER */}
             <div>
-                <h1>Ads</h1>
-                <AdsterraNativeAd />
+                <AdsterraBottomAd />
             </div>
-
 
 
             {/* Cards Grid */}
@@ -61,12 +61,18 @@ export default function Departments() {
                                 </div>
                             ))}
                         </div>
+
                     </div>
                 ))}
 
-                {/* IN-FEED NATIVE AD (Grid ke andar fit hoga) */}
+
+
+            </div>
+
+            <div>
                 <AdsterraNativeAd />
             </div>
+
 
             {/* Bottom SEO Text Section - Keywords Rich */}
             <div className="mt-16 p-8 md:p-10 bg-gradient-to-br from-blue-50 to-white rounded-3xl border border-blue-100 shadow-sm">
@@ -79,8 +85,13 @@ export default function Departments() {
                 </p>
             </div>
 
-            {/* BOTTOM MULTIPLEX AD PLACEHOLDER */}
-            <AdsterraNativeAd />
+
+
+
+            <div>
+                <AdsterraMiddleAd />
+            </div>
+
         </div>
     )
 }

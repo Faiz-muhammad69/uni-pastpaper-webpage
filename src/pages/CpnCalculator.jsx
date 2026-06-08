@@ -1,5 +1,11 @@
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
+import AdsterraNativeAd from '../components/AdsterraNativeAd';
+import AdsterraMiddleAd from '../components/AdsterraMiddleAd';
+import AdsterraBottomAd from '../components/AdsterraBottomAd';
+
+
+
 
 export default function CpnCalculator() {
     // Input States
@@ -69,9 +75,7 @@ export default function CpnCalculator() {
                         </p>
 
                         {/* AD PLACEHOLDER (Left Side) */}
-                        <div className="bg-white/10 border border-dashed border-white/30 p-4 rounded-lg text-center text-sm text-white/50 min-h-[250px] flex items-center justify-center backdrop-blur-sm">
-                            [Google AdSense - Square Display Ad]
-                        </div>
+                        <AdsterraNativeAd />
                     </div>
 
                     {/* Right Column: Calculator Form */}
@@ -124,10 +128,7 @@ export default function CpnCalculator() {
                     </div>
                 </div>
 
-                {/* AD PLACEHOLDER (Bottom) */}
-                <div className="mt-12 bg-white/10 border border-dashed border-white/30 p-4 rounded-lg text-center text-sm text-white/50 min-h-[90px] flex items-center justify-center backdrop-blur-sm">
-                    [Google AdSense - Horizontal Banner Ad]
-                </div>
+                <AdsterraBottomAd />
             </div>
         </div>
     );

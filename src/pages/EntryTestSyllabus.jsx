@@ -1,5 +1,11 @@
 import { Link } from 'react-router-dom';
 import syllabusData from '../data/syllabus.json';
+import AdsterraNativeAd from '../components/AdsterraNativeAd';
+import AdsterraMiddleAd from '../components/AdsterraMiddleAd';
+import AdsterraBottomAd from '../components/AdsterraBottomAd';
+
+
+
 
 export default function EntryTestSyllabus() {
     return (
@@ -34,9 +40,7 @@ export default function EntryTestSyllabus() {
             </div>
 
             {/* TOP AD PLACEHOLDER */}
-            <div className="bg-gray-50 border border-dashed border-gray-300 p-4 mb-10 text-center text-xs text-gray-400 rounded-xl min-h-[90px] flex items-center justify-center">
-                [Google AdSense - Responsive Leaderboard Ad]
-            </div>
+            <AdsterraNativeAd />
 
             {/* Subject Breakdown Grid */}
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-12">
@@ -62,9 +66,7 @@ export default function EntryTestSyllabus() {
             </div>
 
             {/* IN-ARTICLE AD PLACEHOLDER */}
-            <div className="bg-gray-50 border border-dashed border-gray-300 p-4 mb-12 text-center text-xs text-gray-400 rounded-xl min-h-[120px] flex items-center justify-center">
-                [Google AdSense - In-Article Native Ad]
-            </div>
+            <AdsterraMiddleAd />
 
             {/* Call to Action - Link to MCQs */}
             <div className="bg-blue-600 text-white p-8 rounded-3xl text-center shadow-lg relative overflow-hidden">

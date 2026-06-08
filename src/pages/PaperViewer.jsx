@@ -3,6 +3,9 @@ import { useParams, Link } from 'react-router-dom';
 import { Document, Page, pdfjs } from 'react-pdf';
 import entryTestData from '../data/entryTests.json';
 import departmentsData from '../data/departments.json';
+import AdsterraNativeAd from '../components/AdsterraNativeAd';
+import AdsterraMiddleAd from '../components/AdsterraMiddleAd';
+import AdsterraBottomAd from '../components/AdsterraBottomAd';
 
 // React-PDF CSS imports
 // React-PDF ke default styles (text selection aur annotations ke liye)
@@ -56,8 +59,8 @@ export default function PaperViewer() {
             </h1>
 
             {/* --- ADSENSE PLACEHOLDER (TOP AD) --- */}
-            <div className="bg-gray-50 border border-dashed border-gray-300 p-4 my-6 text-center text-xs text-gray-400 rounded min-h-[90px] flex items-center justify-center">
-                [Google AdSense Ad - Responsive Banner]
+            <div className="my-8 w-full flex justify-center">
+                <AdsterraNativeAd />
             </div>
 
             {/* Action Buttons */}
@@ -114,8 +117,8 @@ export default function PaperViewer() {
             )}
 
             {/* --- ADSENSE PLACEHOLDER (BOTTOM AD) --- */}
-            <div className="bg-gray-50 border border-dashed border-gray-300 p-4 my-6 text-center text-xs text-gray-400 rounded min-h-[250px] flex items-center justify-center">
-                [Google AdSense Ad - Matched Content / Native Ad]
+            <div className="my-8 w-full flex justify-center">
+                <AdsterraBottomAd />
             </div>
         </div>
     );

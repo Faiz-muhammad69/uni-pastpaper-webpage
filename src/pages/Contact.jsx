@@ -1,5 +1,11 @@
 import { useState } from "react";
 import axios from "axios";
+import AdsterraNativeAd from '../components/AdsterraNativeAd';
+import AdsterraMiddleAd from '../components/AdsterraMiddleAd';
+import AdsterraBottomAd from '../components/AdsterraBottomAd';
+
+
+
 
 export default function Contact() {
     const [formData, setFormData] = useState({
@@ -55,9 +61,7 @@ export default function Contact() {
             </div>
 
             {/* TOP AD PLACEHOLDER */}
-            <div className="bg-gray-50 border border-dashed border-gray-300 p-4 mb-10 text-center text-xs text-gray-400 rounded-xl min-h-[90px] flex items-center justify-center">
-                [Google AdSense - Responsive Leaderboard Ad]
-            </div>
+            <AdsterraNativeAd />
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-10 bg-white rounded-3xl shadow-sm border border-gray-100 p-6 md:p-10">
 
@@ -68,10 +72,7 @@ export default function Contact() {
                         <p className="text-gray-600">Fill out the form and let us know how we can improve your exam preparation experience.</p>
                     </div>
 
-                    {/* SIDE AD PLACEHOLDER */}
-                    <div className="bg-gray-50 border border-dashed border-gray-300 p-4 mt-6 text-center text-xs text-gray-400 rounded-xl min-h-[250px] flex items-center justify-center w-full">
-                        [Google AdSense - Square Display Ad]
-                    </div>
+                    <AdsterraMiddleAd />
                 </div>
 
                 {/* Right Side: Form */}

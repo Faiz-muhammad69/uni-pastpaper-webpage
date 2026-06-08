@@ -1,4 +1,9 @@
 import { Link } from 'react-router-dom';
+import AdsterraNativeAd from '../components/AdsterraNativeAd';
+import AdsterraMiddleAd from '../components/AdsterraMiddleAd';
+import AdsterraBottomAd from '../components/AdsterraBottomAd';
+
+
 
 export default function Home() {
     return (
@@ -31,9 +36,7 @@ export default function Home() {
 
             {/* TOP AD PLACEHOLDER */}
             <div className="max-w-5xl mx-auto w-full px-4 mt-8">
-                <div className="bg-white border border-dashed border-gray-300 p-4 text-center text-xs text-gray-400 rounded-xl min-h-[90px] flex items-center justify-center shadow-sm">
-                    [Google AdSense - Responsive Leaderboard Ad]
-                </div>
+                <AdsterraNativeAd />
             </div>
 
             {/* Quick Navigation / Features Grid */}
@@ -71,9 +74,8 @@ export default function Home() {
 
             {/* MIDDLE IN-ARTICLE AD PLACEHOLDER */}
             <div className="max-w-4xl mx-auto w-full px-4 mb-12">
-                <div className="bg-white border border-dashed border-gray-300 p-4 text-center text-xs text-gray-400 rounded-xl min-h-[120px] flex items-center justify-center shadow-sm">
-                    [Google AdSense - In-Article Native Ad]
-                </div>
+                <AdsterraMiddleAd />
+
             </div>
 
             {/* SEO Optimized Content Section (AdSense & Google Search Loves This) */}
@@ -119,9 +121,7 @@ export default function Home() {
 
             {/* BOTTOM MULTIPLEX AD PLACEHOLDER */}
             <div className="max-w-5xl mx-auto w-full px-4 mb-16">
-                <div className="bg-gray-50 border border-dashed border-gray-300 p-4 text-center text-xs text-gray-400 rounded-xl min-h-[300px] flex items-center justify-center">
-                    [Google AdSense - Matched Content / Multiplex Ad]
-                </div>
+                <AdsterraBottomAd />
             </div>
 
         </div>

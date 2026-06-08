@@ -2,6 +2,9 @@ import { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import entryTestData from '../data/entryTests.json';
 import departmentsData from '../data/departments.json';
+import AdsterraNativeAd from '../components/AdsterraNativeAd';
+import AdsterraMiddleAd from '../components/AdsterraMiddleAd';
+import AdsterraBottomAd from '../components/AdsterraBottomAd';
 
 export default function SecureDownload() {
     const { paperId } = useParams();
@@ -53,8 +56,8 @@ export default function SecureDownload() {
             <p className="text-gray-500 mb-8 font-medium">File: {paper.title}</p>
 
             {/* TOP AD PLACEHOLDER - Yeh ad user 15 second tak lazmi dekhega */}
-            <div className="bg-gray-50 border border-dashed border-gray-300 p-4 mb-8 text-center text-sm text-gray-400 rounded-xl min-h-[250px] flex items-center justify-center shadow-inner">
-                [Google AdSense - Square Display Ad]
+            <div className="mt-4 mb-8">
+                <AdsterraNativeAd />
             </div>
 
             {/* Timer Section */}
@@ -85,8 +88,8 @@ export default function SecureDownload() {
             </div>
 
             {/* BOTTOM AD PLACEHOLDER */}
-            <div className="bg-gray-50 border border-dashed border-gray-300 p-4 text-center text-sm text-gray-400 rounded-xl min-h-[100px] flex items-center justify-center">
-                [Google AdSense - Horizontal Banner Ad]
+            <div className="mt-8 mb-4">
+                <AdsterraBottomAd />
             </div>
 
         </div>
