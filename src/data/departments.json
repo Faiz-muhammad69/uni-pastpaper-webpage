@@ -12,26 +12,14 @@
         ]
     },
     {
-        "id": "dept-muslim-history",
-        "name": "Muslim History",
-        "description": "Semester past papers for Muslim History department.",
+        "id": "dept-bba",
+        "name": "BBA",
+        "description": "Semester past papers for BBA.",
         "papers": [
             {
-                "id": "mh-collection-1",
-                "title": "Muslim History Past Papers",
-                "fileUrl": "/papers/departments/muslim-history.pdf"
-            }
-        ]
-    },
-    {
-        "id": "dept-plant-science",
-        "name": "Plant Science",
-        "description": "Semester past papers for Plant Science department.",
-        "papers": [
-            {
-                "id": "ps-collection-1",
-                "title": "Plant Science Past Papers",
-                "fileUrl": "/papers/departments/plant-science.pdf"
+                "id": "bba-collection-1",
+                "title": "BBA Past Papers",
+                "fileUrl": "/papers/departments/BBA3.pdf"
             }
         ]
     },
@@ -79,7 +67,7 @@
             {
                 "id": "it-collection-1",
                 "title": "Information Tech Papers",
-                "fileUrl": "/papers/departments/it.pdf"
+                "fileUrl": "/papers/departments/software-engineering.pdf"
             }
         ]
     },
@@ -91,7 +79,7 @@
             {
                 "id": "cs-collection-1",
                 "title": "Computer Science Papers",
-                "fileUrl": "/papers/departments/computer-science.pdf"
+                "fileUrl": "/papers/departments/software-engineering.pdf"
             }
         ]
     },
@@ -103,19 +91,7 @@
             {
                 "id": "ds-collection-1",
                 "title": "Data Science Past Papers",
-                "fileUrl": "/papers/departments/data-science.pdf"
-            }
-        ]
-    },
-    {
-        "id": "dept-islamic",
-        "name": "Islamic Study",
-        "description": "Semester past papers for Islamic Study department.",
-        "papers": [
-            {
-                "id": "isl-collection-1",
-                "title": "Islamic Study Past Papers",
-                "fileUrl": "/papers/departments/islamic-study.pdf"
+                "fileUrl": "/papers/departments/software-engineering.pdf"
             }
         ]
     }
